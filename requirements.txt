@@ -1,0 +1,6 @@
+aiogram==3.17.0
+aiohttp
+docx
+edge-tts
+PyPDF2
+langdetect
